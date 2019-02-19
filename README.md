@@ -1,2 +1,2 @@
 # Online-3D-Fighting-Game
-My Final Project was on Online Networking within games and how they are made. I created a working Online prototype with some combat features in Unity
+My Final Project was on Online Networking within games and how they are made. I created a working Online prototype with some combat features in Unity. The files are a little unorganised at the moment
